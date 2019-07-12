@@ -1,4 +1,4 @@
-![Headshot](pexels-photo.jpg)
+![Headshot](AWS-Logo.jpg)
 
 ## Welcome to GitHub Pages
 
