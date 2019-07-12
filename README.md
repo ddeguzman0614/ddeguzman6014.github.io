@@ -1,3 +1,5 @@
+![Headshot](pexels-photo.jpg)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ddeguzman0614/ddeguzman6014.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
